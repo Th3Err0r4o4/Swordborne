@@ -7,5 +7,7 @@ Controls:
 
 |--> attack:
 
-     |--> double chop: left mouse click
-     |--> spin attack: right mouse click
+|--> double chop: left mouse click
+|--> spin attack: right mouse click
+
+|--> otaceni pomoci otaceni mysi
