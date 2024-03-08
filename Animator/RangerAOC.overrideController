@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RangerAOC
+  m_Controller: {fileID: 9100000, guid: 84f676b3e02d10b4e983b1f7b1bd5587, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 1465369574596688972, guid: 53f98ce5c68329a4cb7a968635b9aaf5, type: 3}
+    m_OverrideClip: {fileID: 1465369574596688972, guid: 55c4e35cde2e8a04bbf2fc3bb9408efa, type: 3}
+  - m_OriginalClip: {fileID: -7727135423134997463, guid: 53f98ce5c68329a4cb7a968635b9aaf5, type: 3}
+    m_OverrideClip: {fileID: -7727135423134997463, guid: 55c4e35cde2e8a04bbf2fc3bb9408efa, type: 3}
+  - m_OriginalClip: {fileID: 644589263403131068, guid: 53f98ce5c68329a4cb7a968635b9aaf5, type: 3}
+    m_OverrideClip: {fileID: 644589263403131068, guid: 55c4e35cde2e8a04bbf2fc3bb9408efa, type: 3}
+  - m_OriginalClip: {fileID: 9067093048684652814, guid: 53f98ce5c68329a4cb7a968635b9aaf5, type: 3}
+    m_OverrideClip: {fileID: 9067093048684652814, guid: 55c4e35cde2e8a04bbf2fc3bb9408efa, type: 3}
+  - m_OriginalClip: {fileID: -3291206362154003629, guid: 53f98ce5c68329a4cb7a968635b9aaf5, type: 3}
+    m_OverrideClip: {fileID: -3291206362154003629, guid: 55c4e35cde2e8a04bbf2fc3bb9408efa, type: 3}
